@@ -96,7 +96,7 @@ Regarding (**Total number of bets sold per hour**) rest endpoint, requirement wa
 ```
 
 * Run the following endpoint to get **Total investment per bet type** 
-* endpoint URL: http://localhost:8080/bets/getTotalBetsSoldPerBetType
+* endpoint URL: http://localhost:8080/bets/getInvestmentPerBetType
 	* http method=GET
 	* add following http header:
  	* key=Authorization value=abc123
