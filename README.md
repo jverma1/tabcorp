@@ -1,8 +1,4 @@
-# tabcorp
-Tabcorp coding challenge
-
-# tabcorp
-Tabcorp coding challenge
+# Tabcorp coding challenge
 
 # Design / Architecture
 I have chosen Spring Boot to create this application. The reason for choosing Spring Boot is its convention over configuration approach and ability to create standalone applications. Project structure was generated using Spring Initializr.
